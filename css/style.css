@@ -6,10 +6,3 @@ body {
 a {
   padding: 20px;
 }
-
-img {
-  display: flex;
-  justify-content: center;
-  max-width: 300px;
-  height: auto;
-}
